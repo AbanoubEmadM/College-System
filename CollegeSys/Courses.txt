@@ -1,0 +1,10 @@
+Data Structures#//#3#//#Intro to Programming-Discrete Math-Math1
+Algorithms#//#4#//#Data Structures-Mathematics for CS-Math2
+Operating Systems#//#3#//#Computer Architecture-Data Structures-Math3
+Database Systems#//#3#//#Intro to Programming-Logic Design-Math4
+Artificial Intelligence#//#4#//#Data Structures-Probability & Statistics-Math4
+Software Engineering#//#3#//#Data Structures-Algorithms-Math2
+Computer Networks#//#3#//#Operating Systems-Discrete Math-Math1
+Cyber Security#//#3#//#Operating Systems-Computer Networks-Math3
+Machine Learning#//#4#//#Artificial Intelligence-Statistics-Math4
+Embedded Systems#//#3#//#Computer Architecture-Microprocessors-Math4

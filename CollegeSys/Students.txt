@@ -1,0 +1,6 @@
+Ahmed#//#ahmed@example.com#//#1234#//#01012345678#//#2023001#//#3.5#//#1#//#16384#//#Data Structures-Mathematics for CS-Intro to CS-a
+Laila#//#Laila@example.com#//#1234#//#01012345678#//#2023002#//#2.5#//#1#//#16384#//#Computer Architecture-Data Structures-Math
+Omar#//#Omar@example.com#//#1234#//#01012345678#//#2023003#//#3.2#//#1#//#16384#//#Intro to Programming-Logic Design-Math
+Mina#//#Mina@example.com#//#1234#//#01012345678#//#2023004#//#1.5#//#1#//#16384#//#Discrete Math-Math
+Mariem#//#Mariem@example.com#//#1234#//#01012345678#//#2023005#//#3.2#//#1#//#16384#//#Data Structures-Mathematics for CS-Math
+Xerena#//#Xerena@example.com#//#1234#//#01012345678#//#2023006#//#3.56#//#1#//#16384#//#Data Structures-Probability & Statistics-Math

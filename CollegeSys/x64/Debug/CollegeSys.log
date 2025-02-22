@@ -1,0 +1,36 @@
+﻿  CollegeSys.cpp
+D:\College_Management_System\CollegeSys\CollegeSys\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsStudent.h(274,14): warning C4091: 'static ': ignored on left of 'clsStudent::enSaveResults' when no variable is declared
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsStudent.h(54,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'CollegeSys.cpp')
+  
+D:\College_Management_System\CollegeSys\CollegeSys\clsStudent.h(296,1): warning C4715: 'clsStudent::Save': not all control paths return a value
+  CollegeSys.vcxproj -> D:\College_Management_System\CollegeSys\x64\Debug\CollegeSys.exe
